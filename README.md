@@ -75,13 +75,14 @@ A modern, responsive, and animated personal portfolio website built using HTML, 
 ## 🌐 Live Applications
 
 ### PDF Merger
-Merge multiple PDF files instantly through a simple and user-friendly interface.
+Merge multiple PDF files instantly through a simple and user-friendly interface.  
+Link: https://pdf-merger-94uu.onrender.com/
 
 ### Image to PDF Converter  
-I build a image to PDF converter website, where you can easily convert multiple images of any format into a PDF.
+I build a image to PDF converter website, where you can easily convert multiple images of any format into a PDF.  
+Link: https://image-to-pdf-converter-by-harsh-saxena.streamlit.app/  
 
 ---
-
 
 ## 📬 Contact
 
